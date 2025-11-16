@@ -14,6 +14,8 @@
 
 ![image alt](https://github.com/DMayrant/Website-Uptime-Monitor/blob/main/Screenshot%202568-11-15%20at%2022.31.15.png?raw=true)
 
+package.json file 
+
     npm init -y
      npm start 
 
