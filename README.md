@@ -13,3 +13,8 @@
 4. Have SNS notifications sent via text message about website uptime status  to sales department 📲
 
 ![image alt](https://github.com/DMayrant/Website-Uptime-Monitor/blob/main/Screenshot%202568-11-15%20at%2022.31.15.png?raw=true)
+
+### npm init -y
+### npm start 
+
+
