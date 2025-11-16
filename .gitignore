@@ -1,0 +1,6 @@
+source ../.env
+terraform.tfstate
+lambda.zip
+.terraform
+.terraform.lock.hcl
+terraform.tfstate.backup
