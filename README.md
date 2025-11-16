@@ -21,6 +21,9 @@ package.json file
 
 ![image alt](https://github.com/DMayrant/Website-Uptime-Monitor/blob/main/Screenshot%202568-11-15%20at%2021.56.22.png?raw=true)     
 
+# Architecture Diagram ☁️
+
+![image alt](https://github.com/DMayrant/Website-Uptime-Monitor/blob/main/Screenshot%202568-11-16%20at%2001.19.07.png?raw=true)
      
 
 
